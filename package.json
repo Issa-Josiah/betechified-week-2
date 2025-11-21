@@ -1,0 +1,24 @@
+{
+  "name": "betechified-week-2",
+  "version": "1.0.0",
+  "description": "week 2 assignment be techified\r ASSIGNMENT\r create an express app with\r get/ -->\"my week 2 api\"\r post/user -->accept{name, email}:responds\"hello,[name]!\"\r get/user/:id --> \"user [id] profile\"\r add --> json parsing, error handling(404 for missing data), and .env for PORT\r test -->use curl/postman;serve a static html page at /\r version control --> init git, commit, push to github(week2-node-express)\r bonus -->add a custom mildware to log requests",
+  "homepage": "https://github.com/Issa-Josiah/betechified-week-2#readme",
+  "bugs": {
+    "url": "https://github.com/Issa-Josiah/betechified-week-2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Issa-Josiah/betechified-week-2.git"
+  },
+  "license": "ISC",
+  "author": "Josiah",
+  "type": "commonjs",
+  "main": "week 2 assignment.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mathjs": "^15.1.0"
+  }
+}
